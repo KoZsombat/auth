@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^26.6.5",
+    "bcrypt": "^6.0.0",
+    "mysql2": "^3.24.5",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0"
+  }
+}
